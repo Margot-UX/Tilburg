@@ -3124,7 +3124,7 @@
       "heading-1": {
         "color": {
           "$type": "color",
-          "$value": "{utrecht.heading.color}"
+          "$value": "{voorbeeld.color.red.600}"
         },
         "font-family": {
           "$type": "fontFamilies",

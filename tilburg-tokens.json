@@ -59,20 +59,6 @@
             "$type": "fontWeights",
             "$value": "Bold"
           }
-        },
-        "font-family": {
-          "primary": {
-            "$type": "fontFamilies",
-            "$value": "Source Serif Pro, Tahoma, Verdana, sans-serif"
-          },
-          "secondary": {
-            "$type": "fontFamilies",
-            "$value": "Fira Sans, Tahoma, Verdana, sans-serif"
-          },
-          "code": {
-            "$type": "fontFamilies",
-            "$value": "Fira Code, Tahoma, Verdana, sans-serif"
-          }
         }
       },
       "color": {
@@ -85,417 +71,149 @@
           "$value": "#000000"
         },
         "violet": {
-          "50": {
-            "$type": "color",
-            "$value": "#FAF8FF"
-          },
-          "100": {
-            "$type": "color",
-            "$value": "#F5F2FF"
-          },
-          "200": {
-            "$type": "color",
-            "$value": "#EBE3FF"
-          },
-          "300": {
-            "$type": "color",
-            "$value": "#DBCDFF"
-          },
-          "400": {
-            "$type": "color",
-            "$value": "#AF91FF"
-          },
           "500": {
             "$type": "color",
-            "$value": "#966EFF"
-          },
-          "600": {
-            "$type": "color",
-            "$value": "#7744FF"
-          },
-          "700": {
-            "$type": "color",
-            "$value": "#5315F6"
-          },
-          "800": {
-            "$type": "color",
-            "$value": "#3F10BC"
-          },
-          "900": {
-            "$type": "color",
-            "$value": "#290B7A"
-          },
-          "950": {
-            "$type": "color",
-            "$value": "#1A074C"
+            "$value": "#4C2582"
           }
         },
         "gray": {
           "50": {
             "$type": "color",
-            "$value": "#F9F9FA"
+            "$value": "#EFEFEF"
           },
           "100": {
             "$type": "color",
-            "$value": "#F2F4F6"
+            "$value": "#E5E5E5"
           },
           "200": {
             "$type": "color",
-            "$value": "#E4E7EC"
+            "$value": "#CCCCCC"
           },
           "300": {
             "$type": "color",
-            "$value": "#CFD5DD"
+            "$value": "#AFAFAF"
           },
           "400": {
             "$type": "color",
-            "$value": "#98A4B6"
+            "$value": "#626262"
           },
           "500": {
             "$type": "color",
-            "$value": "#7A8AA0"
-          },
-          "600": {
-            "$type": "color",
-            "$value": "#5B6E8A"
-          },
-          "700": {
-            "$type": "color",
-            "$value": "#3F5676"
-          },
-          "800": {
-            "$type": "color",
-            "$value": "#274065"
-          },
-          "900": {
-            "$type": "color",
-            "$value": "#0A2750"
-          },
-          "950": {
-            "$type": "color",
-            "$value": "#001737"
+            "$value": "#333333"
           }
         },
         "pink": {
-          "50": {
-            "$type": "color",
-            "$value": "#FDF8FA"
-          },
           "100": {
             "$type": "color",
-            "$value": "#FCF1F6"
+            "$value": "#FFE8F5"
           },
           "200": {
             "$type": "color",
-            "$value": "#F8E1EB"
+            "$value": "#F5B4D7"
           },
           "300": {
             "$type": "color",
-            "$value": "#F2C9DC"
+            "$value": "#E2007A"
           },
           "400": {
             "$type": "color",
-            "$value": "#E287B0"
+            "$value": "#C8006C"
           },
           "500": {
             "$type": "color",
-            "$value": "#D85E95"
-          },
-          "600": {
-            "$type": "color",
-            "$value": "#CA2771"
-          },
-          "700": {
-            "$type": "color",
-            "$value": "#A60E52"
-          },
-          "800": {
-            "$type": "color",
-            "$value": "#7F0B3F"
-          },
-          "900": {
-            "$type": "color",
-            "$value": "#520729"
-          },
-          "950": {
-            "$type": "color",
-            "$value": "#33041A"
+            "$value": "#A40058"
           }
         },
         "red": {
-          "50": {
-            "$type": "color",
-            "$value": "#FFF8F8"
-          },
           "100": {
             "$type": "color",
-            "$value": "#FEF0F1"
+            "$value": "#FFE1E0"
           },
           "200": {
             "$type": "color",
-            "$value": "#FEE0E1"
+            "$value": "#F7B0AC"
           },
           "300": {
             "$type": "color",
-            "$value": "#FDC7CA"
+            "$value": "#E5352C"
           },
           "400": {
             "$type": "color",
-            "$value": "#F97D83"
-          },
-          "500": {
-            "$type": "color",
-            "$value": "#F7464E"
-          },
-          "600": {
-            "$type": "color",
-            "$value": "#D2262E"
-          },
-          "700": {
-            "$type": "color",
-            "$value": "#A41E24"
-          },
-          "800": {
-            "$type": "color",
-            "$value": "#7E171C"
-          },
-          "900": {
-            "$type": "color",
-            "$value": "#500F12"
-          },
-          "950": {
-            "$type": "color",
-            "$value": "#31090B"
+            "$value": "#BF1A12"
           }
         },
         "orange": {
-          "50": {
-            "$type": "color",
-            "$value": "#FFF8F3"
-          },
           "100": {
             "$type": "color",
-            "$value": "#FFF1E7"
+            "$value": "#FFE7D4"
           },
           "200": {
             "$type": "color",
-            "$value": "#FFE1CB"
+            "$value": "#FBB278"
           },
           "300": {
             "$type": "color",
-            "$value": "#FFC9A3"
+            "$value": "#F16E06"
           },
           "400": {
             "$type": "color",
-            "$value": "#FF7A2A"
-          },
-          "500": {
-            "$type": "color",
-            "$value": "#DD6525"
-          },
-          "600": {
-            "$type": "color",
-            "$value": "#B2501F"
-          },
-          "700": {
-            "$type": "color",
-            "$value": "#8B3E18"
-          },
-          "800": {
-            "$type": "color",
-            "$value": "#6A2E13"
-          },
-          "900": {
-            "$type": "color",
-            "$value": "#431D0D"
-          },
-          "950": {
-            "$type": "color",
-            "$value": "#271208"
+            "$value": "#D45F01"
           }
         },
         "yellow": {
-          "50": {
-            "$type": "color",
-            "$value": "#FFFADF"
-          },
-          "100": {
-            "$type": "color",
-            "$value": "#FFF5BE"
-          },
-          "200": {
-            "$type": "color",
-            "$value": "#FFE76B"
-          },
-          "300": {
-            "$type": "color",
-            "$value": "#F9D100"
-          },
-          "400": {
-            "$type": "color",
-            "$value": "#C0A100"
-          },
           "500": {
             "$type": "color",
-            "$value": "#A08700"
-          },
-          "600": {
-            "$type": "color",
-            "$value": "#806C00"
-          },
-          "700": {
-            "$type": "color",
-            "$value": "#645400"
-          },
-          "800": {
-            "$type": "color",
-            "$value": "#4B3F00"
-          },
-          "900": {
-            "$type": "color",
-            "$value": "#2F2800"
-          },
-          "950": {
-            "$type": "color",
-            "$value": "#1C1800"
+            "$value": "#FFDD00"
           }
         },
         "green": {
-          "50": {
-            "$type": "color",
-            "$value": "#F2FCF4"
-          },
           "100": {
             "$type": "color",
-            "$value": "#E4F9EA"
+            "$value": "#C8F3E9"
           },
           "200": {
             "$type": "color",
-            "$value": "#C5F1D1"
+            "$value": "#86CABB"
           },
           "300": {
             "$type": "color",
-            "$value": "#94E6AB"
+            "$value": "#008B6C"
           },
           "400": {
             "$type": "color",
-            "$value": "#20BC4B"
-          },
-          "500": {
-            "$type": "color",
-            "$value": "#1B9D3F"
-          },
-          "600": {
-            "$type": "color",
-            "$value": "#167E33"
-          },
-          "700": {
-            "$type": "color",
-            "$value": "#116227"
-          },
-          "800": {
-            "$type": "color",
-            "$value": "#0D4A1E"
-          },
-          "900": {
-            "$type": "color",
-            "$value": "#082F13"
-          },
-          "950": {
-            "$type": "color",
-            "$value": "#051C0B"
+            "$value": "#01745A"
           }
         },
-        "sea-green": {
-          "50": {
-            "$type": "color",
-            "$value": "#F2FBFA"
-          },
-          "100": {
-            "$type": "color",
-            "$value": "#E5F7F5"
-          },
-          "200": {
-            "$type": "color",
-            "$value": "#C6EFE9"
-          },
-          "300": {
-            "$type": "color",
-            "$value": "#99E2D8"
-          },
-          "400": {
-            "$type": "color",
-            "$value": "#05B7A0"
-          },
+        "lime-green": {
           "500": {
             "$type": "color",
-            "$value": "#009A85"
-          },
-          "600": {
-            "$type": "color",
-            "$value": "#007B6B"
-          },
-          "700": {
-            "$type": "color",
-            "$value": "#006053"
-          },
-          "800": {
-            "$type": "color",
-            "$value": "#00493F"
-          },
-          "900": {
-            "$type": "color",
-            "$value": "#002E28"
-          },
-          "950": {
-            "$type": "color",
-            "$value": "#001C18"
+            "$value": "#97BF0D"
           }
         },
         "blue": {
           "50": {
             "$type": "color",
-            "$value": "#F4FAFE"
+            "$value": "#F2FAFF"
           },
           "100": {
             "$type": "color",
-            "$value": "#E9F5FD"
+            "$value": "#E6F6FF"
           },
           "200": {
             "$type": "color",
-            "$value": "#D0EBFB"
+            "$value": "#B9E4FC"
           },
           "300": {
             "$type": "color",
-            "$value": "#ABDBF8"
+            "$value": "#009CDA"
           },
           "400": {
             "$type": "color",
-            "$value": "#3EACEF"
+            "$value": "#026596"
           },
           "500": {
             "$type": "color",
-            "$value": "#008DE4"
-          },
-          "600": {
-            "$type": "color",
-            "$value": "#0071B7"
-          },
-          "700": {
-            "$type": "color",
-            "$value": "#00588F"
-          },
-          "800": {
-            "$type": "color",
-            "$value": "#00436C"
-          },
-          "900": {
-            "$type": "color",
-            "$value": "#002A44"
-          },
-          "950": {
-            "$type": "color",
-            "$value": "#001A29"
+            "$value": "#053D63"
           }
         },
         "light": {
@@ -911,6 +629,24 @@
           }
         }
       }
+    },
+    "tilburg": {
+      "typography": {
+        "font-family": {
+          "primary": {
+            "$type": "fontFamilies",
+            "$value": "TradeGothic LT CondEighteen"
+          },
+          "secondary": {
+            "$type": "fontFamilies",
+            "$value": "Roboto"
+          },
+          "code": {
+            "$type": "fontFamilies",
+            "$value": "Fira Code, Tahoma, Verdana, sans-serif"
+          }
+        }
+      }
     }
   },
   "common": {
@@ -926,7 +662,7 @@
         },
         "font-family": {
           "$type": "fontFamilies",
-          "$value": "{voorbeeld.typography.font-family.secondary}"
+          "$value": "{tilburg.typography.font-family.secondary}"
         },
         "font-size": {
           "$type": "fontSizes",
@@ -944,7 +680,7 @@
       "heading": {
         "font-family": {
           "$type": "fontFamilies",
-          "$value": "{voorbeeld.typography.font-family.primary}"
+          "$value": "{tilburg.typography.font-family.primary}"
         },
         "font-weight": {
           "$type": "fontWeights",
@@ -1052,7 +788,7 @@
         },
         "font-family": {
           "$type": "fontFamilies",
-          "$value": "{voorbeeld.typography.font-family.secondary}"
+          "$value": "{tilburg.typography.font-family.secondary}"
         },
         "font-size": {
           "$type": "fontSizes",
@@ -1352,7 +1088,7 @@
       "code": {
         "font-family": {
           "$type": "fontFamilies",
-          "$value": "{voorbeeld.typography.font-family.code}"
+          "$value": "{tilburg.typography.font-family.code}"
         }
       }
     }
